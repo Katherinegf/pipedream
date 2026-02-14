@@ -11,8 +11,8 @@
   "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
   "license": "MIT",
   "dependencies": {
-    "@pipedream/platform": "^1.2.0",
-    "axios": "^0.21.1",
+    "@pipedream/platform": "^1.6.0",
+    "axios": "^1.13.5",
     "moment": "^2.29.1",
     "querystring": "^0.2.0"
   },
